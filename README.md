@@ -1,5 +1,7 @@
 # NexusAdmin - 企業級廠辦營運管理系統
 
+> 🚀 **Live Demo:** [點擊這裡立即體驗 NexusAdmin](https://nexus-admin-fawn.vercel.app)
+
 > 基於 Next.js App Router 構建的高性能 ERP MVP，整合物料控存、工單管理與商業智慧（BI）數據視覺化。
 
 <p align="left">
